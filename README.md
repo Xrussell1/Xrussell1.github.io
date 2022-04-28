@@ -20,12 +20,21 @@ body {
   <img src=" https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1">
   <img src="https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1"> 
   
-  <h2> Prohect Two: Green Screen</h2>
+  <h2> Project Two: Green Screen</h2>
   <p> 
      To complete project one, I used zoom software to simulate the effects you would receive while using a video editing program like OBS. The purpose of this project was to modify the viewer's perception. By making a loop of myself passing back and forth as I was on the computer, I was able to achieve the green screen effect for my zoom background. In doing so, I was able to alter the viewer's perception in a subtle way. 
  
   </p>
-
+<img src="https://drive.google.com/uc?export=download&id=1PqqyPAhbHg8P3Ixw2fdftQgNUZvhsLwq"> 
+ 
 </body>
 </html>
+
+<h3> Project One: Github Poetry </h3>
+<p> 
+  I learned about generative web art through the process of using uncreative writing within this project. As part of this project, I searched for the phrase "How do you feel?" I pasted this phrase in the text editor and received a number of images related to feelings. As a result, I decided to dedicate my poem to the feelings and well-being of the person I was originally sending the text too.  
+
+</p> 
+
+<img src=" https://drive.google.com/uc?export=download&id=1O7CXdj5ySzVezauyHdGmQmQNuUkIu4wA"> 
 
