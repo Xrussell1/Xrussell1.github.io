@@ -1,10 +1,10 @@
 <h1 style="font-size:60px;"> Non-linear story Project </h1> 
-<p style="color:red;" 
+
    
 You can acess my most recent project here <a href="https://twinery.org/2/#!/stories/b2a5756d-c6f9-4639-a36c-0ce981a00b31">link text</a>
 My non-linear game is a way to show off my abilities with the Twine software as well as to structure a story in which there were many options for each step that could lead you in a variety of ways. In turn, this leads you further away from the storyline and from completing the game.
    
-</p> 
+
 
 <html>
 <head>
@@ -21,7 +21,7 @@ body {
   <img src="https://drive.google.com/uc?export=download&id=1vzg68Gp-VVTl0LpZRY0s4jKN5YtsMwPX" width="500px">
    <img src="https://drive.google.com/uc?export=download&id=1Q1wEClg3xAgEzfsZIwA3YLXleJItUz8H" width="500px">
   <img src=" https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1" width="500px">
-  <img src="https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1" width="500px"> 
+  <img src="https://drive.google.com/uc?export=download&id=1uM3GxRC_rwKDQ-ZItTVpklb_0Ss2Rj8m" width="500px"> 
   
   <h2> Project Two: Green Screen</h2>
   <p style="color:red;">
