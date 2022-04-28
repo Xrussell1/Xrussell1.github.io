@@ -7,7 +7,7 @@ My non-linear game is a way to show off my abilities with the Twine software as 
 <head>
 <style>
 body {
-  background-image: url(" https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/future_city0124192.jpg?itok=16HTck4G");
+  background-image: url("https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/thumbimg_25361957thumbejpg.jpg");
 }
 </style>
 </head>
