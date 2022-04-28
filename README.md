@@ -10,7 +10,7 @@ My non-linear game is a way to show off my abilities with the Twine software as 
 <head>
 <style>
 body {
-  background-image: url("https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/thumbimg_25361957thumbejpg.jpg");
+  background-image: url("https://ak.picdn.net/shutterstock/videos/8582965/thumb/1.jpg?ip=x480");
 }
 </style>
 </head>
