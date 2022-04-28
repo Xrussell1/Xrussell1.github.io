@@ -6,14 +6,17 @@ My non-linear game is a way to show off my abilities with the Twine software as 
 ### Images from Project 3 Below 
 - 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1. <img src="https://i.pinimg.com/originals/f8/f5/5d/f8f55d76889fb8c194ee13f169fce852.jpg" width="500px"> 
-## Header 2.  
-### Header 3
+
+ Project 1. 
+ 
+ p.solid {border-style: solid;}
+ 
+Project 2.  
+Project 3
 
 - Bulleted
 - List
