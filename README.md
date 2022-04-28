@@ -16,8 +16,11 @@ body {
 <h1> Projecet 1 </h1>
   
   <img src="https://drive.google.com/file/d/1vzg68Gp-VVTl0LpZRY0s4jKN5YtsMwPX/view?usp=sharing">
+   <img src="https://drive.google.com/uc?export=download&id=1Q1wEClg3xAgEzfsZIwA3YLXleJItUz8H">
+  <img src=" https://drive.google.com/file/d/1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1/view?usp=sharing">
+  <img src=" https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1"> 
+ 
 
-<p>### Project 1
   
   
   </p>
