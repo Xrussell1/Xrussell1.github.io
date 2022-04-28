@@ -13,16 +13,17 @@ body {
 </head>
 <body>
 
-<h1> Projecet 1 </h1>
+<h1> Projecet 3 </h1>
   
-  <img src="https://drive.google.com/file/d/1vzg68Gp-VVTl0LpZRY0s4jKN5YtsMwPX/view?usp=sharing">
+  <img src="https://drive.google.com/uc?export=download&id=1vzg68Gp-VVTl0LpZRY0s4jKN5YtsMwPX">
    <img src="https://drive.google.com/uc?export=download&id=1Q1wEClg3xAgEzfsZIwA3YLXleJItUz8H">
-  <img src=" https://drive.google.com/file/d/1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1/view?usp=sharing">
-  <img src=" https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1"> 
+  <img src=" https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1">
+  <img src="https://drive.google.com/uc?export=download&id=1MOzNnswFqjGIY28mlYbbaW3FAp7TpFh1"> 
+  
+  <h2> Prohect Two: Green Screen</h2>
+  <p> 
+     To complete project one, I used zoom software to simulate the effects you would receive while using a video editing program like OBS. The purpose of this project was to modify the viewer's perception. By making a loop of myself passing back and forth as I was on the computer, I was able to achieve the green screen effect for my zoom background. In doing so, I was able to alter the viewer's perception in a subtle way. 
  
-
-  
-  
   </p>
 
 </body>
