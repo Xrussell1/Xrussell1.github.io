@@ -19,7 +19,7 @@ body {
 <body>
 
 
-<h1> Projecet 3 </h1>
+<h1> Projecet Three: Non-Linear project</h1>
   
   <img src="https://drive.google.com/uc?export=download&id=1vzg68Gp-VVTl0LpZRY0s4jKN5YtsMwPX" width="500px">
    <img src="https://drive.google.com/uc?export=download&id=1Q1wEClg3xAgEzfsZIwA3YLXleJItUz8H" width="500px">
