@@ -1,4 +1,4 @@
-<h1 style="font-size:60px;">  Portfolio: Projects 1,2,and 3 </h1> 
+<h1 style="font-size:60px;">  Portfolio: Projects 1,2,&3 </h1> 
 
    
 You can acess my most recent project here <a href="https://twinery.org/2/#!/stories/b2a5756d-c6f9-4639-a36c-0ce981a00b31">link text</a>
